@@ -1,0 +1,20 @@
+{
+  "name": "@austinjk/citura",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bin": {
+    "citura": "./index.js"
+  },
+  "author": "Austin Kenny",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "figlet": "^1.2.0"
+  }
+}
